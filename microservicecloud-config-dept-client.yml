@@ -69,7 +69,7 @@ spring:
     driver-class-name: org.gjt.mm.mysql.Driver               #mysql驱动包
     username: root
     password: root
-    url: jdbc:mysql://localhost:3306/cloudDB01               #数据库名称
+    url: jdbc:mysql://localhost:3306/cloudDB02               #数据库名称
     dbcp2:
       min-idle: 5
       initial-size: 5
